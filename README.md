@@ -57,6 +57,8 @@ Exit
 * Exception handling with try-except
 * Taking user input safely
 * Using Git and GitHub for version control
+* Used a .gitignore file to prevent Python cache, virtual environment, and system files from being pushed to GitHub.
+
 
 ### ***👨‍💻 Author***
 ***Sagar Saini***
