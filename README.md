@@ -5,7 +5,7 @@ It allows users to perform basic arithmetic operations using a menu-driven inter
 
 * **This project is suitable for beginners who are learning Python fundamentals and GitHub.**
 
-***🚀 Features -***
+### ***🚀 Features -***
 
 Menu-driven calculator
 Supports basic operations:
@@ -19,16 +19,16 @@ Clean and easy-to-understand Python code
 
 ### ***🛠️ Technologies Used***
 
-**1) Python 3
-2) Git & GitHub**
+**1) Python 3**
+**2) Git & GitHub**
 
 ### ***📂 Project Structure***
 
-**simple-calculator-python/
-│
-├── Simple_calculator.py
-├── README.md
-└── .gitignore**
+**simple-calculator-python/**
+**│**
+**├── Simple_calculator.py**
+**├── README.md**
+**└── .gitignore**
 
 ### ***▶️ How to Run This Project***
 **Step 1: Clone the repository**
@@ -50,7 +50,7 @@ Multiply
 Divide
 Exit
 
-###***🎯 What I Learned from This Project***
+### ***🎯 What I Learned from This Project***
 
 * Writing Python functions
 * Using loops and conditional statements
